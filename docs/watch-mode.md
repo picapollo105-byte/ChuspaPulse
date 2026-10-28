@@ -58,7 +58,7 @@ Al utilizar el modo `--watch`, la información se muestra en una tabla que se ac
 
 ```text
 +--------------------------------+
-|       ChuspaPulse - WATCH MODE       |
+|    CHUSPAPULSE - WATCH MODE    |
 +--------------------------------+
 | Métrica        | Valor         |
 +--------------------------------+
